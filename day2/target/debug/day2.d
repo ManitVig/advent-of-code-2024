@@ -1,0 +1,1 @@
+/Users/manitvig/Documents/codeworks/advent-of-code-2024/day2/target/debug/day2: /Users/manitvig/Documents/codeworks/advent-of-code-2024/day2/src/main.rs /Users/manitvig/Documents/codeworks/advent-of-code-2024/day2/src/part1.rs /Users/manitvig/Documents/codeworks/advent-of-code-2024/day2/src/part2.rs
